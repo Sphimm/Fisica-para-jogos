@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Trajeto de bala de canhão/1.0.0": {
+        "runtime": {
+          "Trajeto de bala de canhão.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Trajeto de bala de canhão/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
